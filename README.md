@@ -122,6 +122,22 @@ Data visualization
 
 Business storytelling
 
+How to Run the Project
+
+Clone this repository:
+
+git clone https://github.com/ppchuy58/chicago-taxi-analysis.git
+
+
+Install dependencies:
+
+pip install pandas matplotlib
+
+
+Open the notebook:
+
+jupyter notebook
+
 📬 Contact
 
 José Cabral
